@@ -1,2 +1,2 @@
-# cursoemvideo-logica-de-programacao
- Arquivos de imagens das aulas e códigos do VisualG
+# cursoemvideo-programming-logic
+Classes files and codes on VisualG.
